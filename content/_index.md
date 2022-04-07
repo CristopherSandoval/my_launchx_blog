@@ -9,12 +9,12 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Me interesa:
 
-Programar
+💻Programar
 
-Videojuegos
+🎮Videojuegos/xbox
 
-Leer
+📒Leer
 
-Escuchar música
+🎶 Escuchar música
 
 🚀
