@@ -8,9 +8,13 @@ Hola ✌️  soy el explorer **Cristopher** y este es mi blog personal donde com
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Me interesa:
+
 Programar
+
 Videojuegos
+
 Leer
+
 Escuchar música
 
 🚀
