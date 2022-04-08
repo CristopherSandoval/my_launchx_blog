@@ -30,12 +30,15 @@ Honestidad</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Ruta de Aprendizaje - Semana 1</title>
       <link>https://cristophersandoval.github.io/my_launchx_blog/posts/rutaaprendizaje/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cristophersandoval.github.io/my_launchx_blog/posts/rutaaprendizaje/</guid>
-      <description></description>
+      <description>Ruta de aprendizaje - Semana1 En la primera semana de la misión Back-End Node Js aprendí a utilizar git (Nunca antes lo había usado y ahora ya sé xd).
+Considero estos son los comandos que más he utilizado para esta primera misión:
+  Git Clone: git clone (url). Este nos permite clonar el repositorio que queramos con el url ó la ssh key
+  cd: cd + (Nombre del path).</description>
     </item>
     
   </channel>
