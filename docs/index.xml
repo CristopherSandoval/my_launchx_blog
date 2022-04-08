@@ -30,15 +30,6 @@ Honestidad</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://cristophersandoval.github.io/my_launchx_blog/posts/rutaaprendizaje/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cristophersandoval.github.io/my_launchx_blog/posts/rutaaprendizaje/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>About me</title>
       <link>https://cristophersandoval.github.io/my_launchx_blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -47,6 +38,18 @@ Honestidad</description>
       <description>Who am I Hola, aquí vas a leer un poco sobre mi 🤩
  Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.
  Cineres Nile ipsa origine discurrunt adest Unde, et quem clausus, imo, virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur quis, digitis pedes.</description>
+    </item>
+    
+    <item>
+      <title>Ruta de Aprendizaje - Semana 1</title>
+      <link>https://cristophersandoval.github.io/my_launchx_blog/posts/rutaaprendizaje/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cristophersandoval.github.io/my_launchx_blog/posts/rutaaprendizaje/</guid>
+      <description>Ruta de aprendizaje - Semana1 En la primera semana de la misión Back-End Node Js aprendí a utilizar git (Nunca antes lo había usado y ahora ya sé xd).
+Considero estos son los comandos que más he utilizado para esta primera misión:
+  Git Clone: git clone (url). Este nos permite clonar el repositorio que queramos con el url ó la ssh key
+  cd: cd + (Nombre del path).</description>
     </item>
     
   </channel>
